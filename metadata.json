@@ -1,0 +1,6 @@
+{
+  "name": "StudyFlow AI",
+  "description": "Turn your study material into an adaptive, actionable plan. A student productivity and AI study-planning platform ready for n8n automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
